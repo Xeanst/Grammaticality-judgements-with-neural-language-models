@@ -1,0 +1,560 @@
+{"sentence": "пилот возле ассистента пел", "idx": 1, "label": "pp_anim"}
+{"sentence": "фермеры которые знали сериалы пел", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "танцора ненавидели руководители", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "пилот знал журнал", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "фермер знал фигуриста", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "фермеры которых знали охранники рассуждал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "писатель ненавидел сериалы", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чертеж были известными", "idx": 0, "label": "intr_inan"}
+{"sentence": "банкир предполагал что писатель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "учебники для ассистентов увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фермер который знал танцоров рассуждал", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "пилоты знал фигуристов", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "механик предполагал что руководитель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "архитекторов знали пилоты", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "учебник недолюбливали покупатели", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "писатели знали охранника", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "фермеры которые недолюбливали журналы рассуждал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "сериалы для ассистента был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник восхищали", "idx": 0, "label": "intr_inan"}
+{"sentence": "покупатели которые недолюбливали учебники рассуждал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "журналы был известным", "idx": 0, "label": "intr_inan"}
+{"sentence": "охранников знал покупатели", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "механик говорил что фильм увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "пилоты которые недолюбливали сериалы были пожилыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "танцоров недолюбливали писатель", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "покупатель пели", "idx": 0, "label": "intr_anim"}
+{"sentence": "танцора знали фермеры", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "сериал который знали охранники увлекали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "сериалы увлекали", "idx": 1, "label": "intr_inan"}
+{"sentence": "пилот был пожилым", "idx": 1, "label": "intr_anim"}
+{"sentence": "журнал недолюбливал фермер", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "пилот возле ассистентов рассуждал", "idx": 1, "label": "pp_anim"}
+{"sentence": "пилоты был пожилым", "idx": 0, "label": "intr_anim"}
+{"sentence": "покупатель были пожилыми", "idx": 0, "label": "intr_anim"}
+{"sentence": "фильм который ненавидели охранники был известным", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "покупатель который знал чертежи пели", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "фермер который ненавидел архитекторов были высокими", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "руководители был пожилым", "idx": 0, "label": "intr_anim"}
+{"sentence": "журнал недолюбливал пилоты", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "руководители которых ненавидел танцор рассуждали", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "писатель были пожилыми", "idx": 0, "label": "intr_anim"}
+{"sentence": "покупатели которых недолюбливали охранники рассуждал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "руководитель недолюбливал чертежи", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "банкир говорил что пилот рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "писатель пели", "idx": 0, "label": "intr_anim"}
+{"sentence": "чертежи был хорошим", "idx": 0, "label": "intr_inan"}
+{"sentence": "механик говорил что фильм были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "покупатель возле охранника пел", "idx": 1, "label": "pp_anim"}
+{"sentence": "учебник ненавидел руководители", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "сериал для фигуристов восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фермеры которые ненавидели архитекторов рассуждали", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "покупатели возле ассистентов были пожилыми", "idx": 1, "label": "pp_anim"}
+{"sentence": "покупатель возле ассистента пел", "idx": 1, "label": "pp_anim"}
+{"sentence": "писатель который знал архитекторов был высоким", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "журнал был хорошим", "idx": 1, "label": "intr_inan"}
+{"sentence": "банкир говорил что сериалы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что покупатель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "фермеры рассуждали", "idx": 1, "label": "intr_anim"}
+{"sentence": "архитектора недолюбливали фермер", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "писатель который ненавидел фильмы пел", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "пилот возле охранника рассуждал", "idx": 1, "label": "pp_anim"}
+{"sentence": "покупатель которого недолюбливал ассистент рассуждали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "учебник недолюбливали писатели", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "писатели которых ненавидел ассистент рассуждал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "писатель возле архитектора пели", "idx": 0, "label": "pp_anim"}
+{"sentence": "фильм для архитектора увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "руководитель пели", "idx": 0, "label": "intr_anim"}
+{"sentence": "руководитель которого недолюбливали ассистенты рассуждали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "покупатель возле танцора был пожилым", "idx": 1, "label": "pp_anim"}
+{"sentence": "руководитель которого ненавидел охранник пел", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "покупатели которых знали танцоры были высокими", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "механик предполагал что журнал был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "покупатели знали учебник", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "руководители возле ассистента были пожилыми", "idx": 1, "label": "pp_anim"}
+{"sentence": "пилот которого недолюбливал танцор пели", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "покупатели которых знал охранник рассуждал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "банкир говорил что фильм был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "руководители ненавидел ассистентов", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "фильмы которые ненавидел ассистент увлекал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "танцора знал покупатель", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "банкиры говорили что сериалы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "писатели рассуждали", "idx": 1, "label": "intr_anim"}
+{"sentence": "ассистента ненавидел фермер", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "покупатель возле танцоров рассуждал", "idx": 1, "label": "pp_anim"}
+{"sentence": "чертежи ненавидели пилоты", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "механики говорили что чертеж был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "фермеры недолюбливал охранника", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "пилот который ненавидел архитектора рассуждали", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чертежи были известными", "idx": 1, "label": "intr_inan"}
+{"sentence": "механик предполагал что фермер были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "покупатели пели", "idx": 1, "label": "intr_anim"}
+{"sentence": "чертеж для архитектора увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "писатели знали фильм", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чертеж ненавидел фермеры", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "руководители которые знали архитекторов пели", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "механики говорили что покупатель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "фермеры которых знали архитекторы был высоким", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "фильм для танцоров восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "пилот рассуждали", "idx": 0, "label": "intr_anim"}
+{"sentence": "архитектора знал руководитель", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "руководитель знали сериал", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "покупатели ненавидел ассистента", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "чертеж ненавидели писатель", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "пилот знал охранников", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "сериал знал писатели", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "пилот недолюбливали журнал", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "пилоты недолюбливали фигуриста", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "фермеры возле фигуриста рассуждал", "idx": 0, "label": "pp_anim"}
+{"sentence": "механики говорили что сериалы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "фермер рассуждали", "idx": 0, "label": "intr_anim"}
+{"sentence": "чертеж для танцоров восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "механик предполагал что фильмы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что учебник увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "покупатель ненавидели фильм", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "покупатели которые недолюбливали архитекторов был высоким", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "учебники которые знал ассистент увлекали", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "покупатели был пожилым", "idx": 0, "label": "intr_anim"}
+{"sentence": "банкир предполагал что покупатели были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "фильмы был известным", "idx": 0, "label": "intr_inan"}
+{"sentence": "ассистента недолюбливали писатель", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "банкиры говорили что учебник восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "журнал знал писатели", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "покупатель был высоким", "idx": 1, "label": "intr_anim"}
+{"sentence": "покупатель рассуждали", "idx": 0, "label": "intr_anim"}
+{"sentence": "пилот который знал архитекторов рассуждал", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "писатели возле охранников был пожилым", "idx": 0, "label": "pp_anim"}
+{"sentence": "банкиры говорили что покупатель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "писатель знал танцоров", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "фильм для ассистента был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "пилоты недолюбливал фигуристов", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "банкир предполагал что фермеры пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "фигуриста ненавидел руководитель", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "сериалы знали руководители", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "механики говорили что писатель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "учебники которые знал фигурист был известным", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "покупатель который знал чертежи пел", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "механик говорил что чертежи были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что писатель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "писатели которые недолюбливали фильм были высокими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "писатель которого знали танцоры пел", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "писатель возле охранников пел", "idx": 1, "label": "pp_anim"}
+{"sentence": "покупатель ненавидел журнал", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "учебник который знал ассистент увлекали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "руководители недолюбливал чертеж", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "фермеры ненавидел фильм", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "пилоты знали фильмы", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чертежи для ассистентов увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "пилот которого недолюбливал ассистент был пожилым", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "руководители знали охранников", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "механики предполагали что журналы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "руководители которые ненавидели фильмы были высокими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "руководитель возле ассистента был высоким", "idx": 1, "label": "pp_anim"}
+{"sentence": "журнал для фигуриста увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник был хорошим", "idx": 1, "label": "intr_inan"}
+{"sentence": "танцора ненавидел руководитель", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "писатель ненавидели журналы", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "фильмы которые знали ассистенты был известным", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "механики предполагали что руководители были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что покупатели пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что фильм восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "пилоты возле фигуристов пел", "idx": 0, "label": "pp_anim"}
+{"sentence": "покупатели которые недолюбливали фигуриста были пожилыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "сериал который недолюбливал фигурист увлекали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "пилоты которых ненавидели фигуристы пели", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "покупатели знал танцора", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "пилоты ненавидели чертежи", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "архитектора знали руководители", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "сериал увлекал", "idx": 1, "label": "intr_inan"}
+{"sentence": "журналы которые знал фигурист увлекал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "фильм увлекал", "idx": 1, "label": "intr_inan"}
+{"sentence": "фильмы знали фермер", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "фермеры которые недолюбливали чертежи рассуждали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "ассистента знал фермеры", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "пилоты знали фильм", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "учебники восхищал", "idx": 0, "label": "intr_inan"}
+{"sentence": "фермеры ненавидели чертежи", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "руководитель который недолюбливал ассистента пели", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "писатели которые недолюбливали архитекторов были высокими", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "писатели которые ненавидели фильм рассуждал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "покупатели ненавидели сериалы", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "пилоты возле архитекторов рассуждал", "idx": 0, "label": "pp_anim"}
+{"sentence": "фермер возле ассистентов рассуждали", "idx": 0, "label": "pp_anim"}
+{"sentence": "руководитель знали журнал", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "чертеж который знал архитектор восхищал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "пилоты были пожилыми", "idx": 1, "label": "intr_anim"}
+{"sentence": "писатель недолюбливали архитектора", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "писатели возле фигуристов рассуждал", "idx": 0, "label": "pp_anim"}
+{"sentence": "танцора недолюбливали покупатели", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "фермеры пели", "idx": 1, "label": "intr_anim"}
+{"sentence": "фермеры возле охранника пел", "idx": 0, "label": "pp_anim"}
+{"sentence": "танцора недолюбливал руководитель", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "фильм который недолюбливал фигурист был хорошим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "учебник который ненавидел охранник был известным", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "журнал увлекали", "idx": 0, "label": "intr_inan"}
+{"sentence": "писатели которые ненавидели ассистента были пожилыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "писатель были высокими", "idx": 0, "label": "intr_anim"}
+{"sentence": "руководитель которого недолюбливал танцор были пожилыми", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "учебник для архитекторов был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "фермер пели", "idx": 0, "label": "intr_anim"}
+{"sentence": "сериал который недолюбливали архитекторы увлекали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "сериалы увлекал", "idx": 0, "label": "intr_inan"}
+{"sentence": "сериал недолюбливали фермеры", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "журналы был хорошим", "idx": 0, "label": "intr_inan"}
+{"sentence": "сериалы которые недолюбливали охранники восхищал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "охранников ненавидели покупатели", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "сериал был известным", "idx": 1, "label": "intr_inan"}
+{"sentence": "фильм для фигуристов был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "покупатели которые ненавидели журналы рассуждал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "механики говорили что учебник увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "руководитель который знал учебник были высокими", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "фермер знали ассистентов", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "писатели которые знали охранников были высокими", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "фильмы ненавидели писатели", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "руководители был высоким", "idx": 0, "label": "intr_anim"}
+{"sentence": "пилоты которые знали охранника рассуждал", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "покупатель возле охранников были пожилыми", "idx": 0, "label": "pp_anim"}
+{"sentence": "покупатели знали танцоров", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "банкиры говорили что фильмы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "ассистентов недолюбливал фермер", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "фильм который знали фигуристы увлекали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "танцора знали пилоты", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "руководитель недолюбливал учебники", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чертежи которые знали охранники увлекал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "банкиры предполагали что руководители рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "охранника недолюбливали фермеры", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "писатель недолюбливали танцоров", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "танцора знал руководитель", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "фермеры знали охранников", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "учебники которые недолюбливали ассистенты восхищали", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "пилот который ненавидел фигуриста был высоким", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "механики говорили что руководитель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "писатель который ненавидел охранника был пожилым", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "механики говорили что фермер был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "фигуристов недолюбливал фермеры", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "пилот который ненавидел фигуристов рассуждал", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "фильм были известными", "idx": 0, "label": "intr_inan"}
+{"sentence": "банкиры говорили что фильмы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "писатели рассуждал", "idx": 0, "label": "intr_anim"}
+{"sentence": "журналы для фигуристов был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал недолюбливал покупатели", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "пилот который знал архитектора рассуждали", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "писатель знал фильмы", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "покупатели которые ненавидели учебник пели", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чертеж был хорошим", "idx": 1, "label": "intr_inan"}
+{"sentence": "фермеры недолюбливали сериалы", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "сериалы был известным", "idx": 0, "label": "intr_inan"}
+{"sentence": "фермеры были пожилыми", "idx": 1, "label": "intr_anim"}
+{"sentence": "банкиры говорили что руководители были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "фильмы ненавидел пилоты", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "писатели которых недолюбливали ассистенты рассуждали", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "журналы для архитекторов восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "покупатель которого недолюбливали ассистенты рассуждал", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "пилоты которые недолюбливали чертеж рассуждал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "фермер который знал архитекторов были пожилыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "покупатели которые ненавидели фильмы рассуждали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "руководитель знал сериалы", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "писатель ненавидел журнал", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "пилоты рассуждали", "idx": 1, "label": "intr_anim"}
+{"sentence": "журналы для ассистента был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для ассистента восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "пилоты ненавидели танцоров", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "писатель ненавидели фильм", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "покупатель который знал танцора были высокими", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "журнал был известным", "idx": 1, "label": "intr_inan"}
+{"sentence": "пилоты рассуждал", "idx": 0, "label": "intr_anim"}
+{"sentence": "банкир говорил что фермеры были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "писатель которого знал архитектор был пожилым", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "руководители которые ненавидели журналы были высокими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "покупатель возле фигуристов был высоким", "idx": 1, "label": "pp_anim"}
+{"sentence": "ассистентов ненавидели пилот", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "сериалы для охранников были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "банкир предполагал что покупатель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "писатель недолюбливали журналы", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "руководители которые недолюбливали сериал были высокими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "писатель который ненавидел охранников были пожилыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "руководитель знали архитекторов", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "покупатель возле архитектора пели", "idx": 0, "label": "pp_anim"}
+{"sentence": "руководители возле ассистентов пел", "idx": 0, "label": "pp_anim"}
+{"sentence": "фильм который ненавидел танцор восхищал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "сериал для охранников были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "руководители знал охранника", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "писатели возле фигуриста рассуждал", "idx": 0, "label": "pp_anim"}
+{"sentence": "покупатели были высокими", "idx": 1, "label": "intr_anim"}
+{"sentence": "фильмы знал руководитель", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "журнал который ненавидел охранник был хорошим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "покупатель ненавидели архитектора", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "механики говорили что чертежи были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "руководители рассуждал", "idx": 0, "label": "intr_anim"}
+{"sentence": "пилот который знал чертеж были пожилыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "покупатели пел", "idx": 0, "label": "intr_anim"}
+{"sentence": "механик предполагал что пилоты рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что учебник были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "пилот который знал ассистента был высоким", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "пилоты ненавидели сериалы", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "писатель возле архитектора пел", "idx": 1, "label": "pp_anim"}
+{"sentence": "чертеж ненавидел пилот", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "руководители знал танцора", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "покупатели возле ассистента рассуждал", "idx": 0, "label": "pp_anim"}
+{"sentence": "механик говорил что журналы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "сериалы для ассистентов восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи восхищали", "idx": 1, "label": "intr_inan"}
+{"sentence": "сериалы которые недолюбливали танцоры восхищал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "журнал увлекал", "idx": 1, "label": "intr_inan"}
+{"sentence": "чертеж ненавидели покупатель", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "фермер который ненавидел журналы был высоким", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "танцоров ненавидел фермер", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "руководители которые знали чертежи были высокими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "писатели знал танцора", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "охранника недолюбливал фермеры", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "пилоты знали ассистента", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "чертежи которые ненавидел охранник восхищал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "фермер который знал охранников пели", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "фильмы были известными", "idx": 1, "label": "intr_inan"}
+{"sentence": "пилот знали фильмы", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "фильм знал писатели", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "банкиры предполагали что чертеж увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что руководитель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "танцора недолюбливали писатель", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "пилоты которые недолюбливали фильм были пожилыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "журнал для фигуристов восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "руководитель знал фигуриста", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "сериал знал пилот", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "журнал восхищал", "idx": 1, "label": "intr_inan"}
+{"sentence": "покупатели которые недолюбливали архитекторов были высокими", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "писатели недолюбливали учебники", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чертеж увлекали", "idx": 0, "label": "intr_inan"}
+{"sentence": "банкир говорил что руководитель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "чертеж для ассистента был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "покупатели которые ненавидели архитектора были пожилыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "фигуриста недолюбливали пилоты", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "руководитель недолюбливал фигуристов", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "писатели которые ненавидели учебник был высоким", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "сериалы недолюбливали руководитель", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "пилоты знали чертеж", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "пилот которого недолюбливали архитекторы пел", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "фермеры возле ассистентов рассуждали", "idx": 1, "label": "pp_anim"}
+{"sentence": "фермеры которых недолюбливал архитектор были пожилыми", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "механики говорили что фильмы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "покупатель которого ненавидел танцор рассуждали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "писатели недолюбливали танцоров", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "фермеры которых недолюбливали танцоры пел", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "охранника недолюбливали писатели", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "фильмы недолюбливали пилоты", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "фильмы увлекал", "idx": 0, "label": "intr_inan"}
+{"sentence": "учебник увлекали", "idx": 0, "label": "intr_inan"}
+{"sentence": "фильмы недолюбливали пилот", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "механики говорили что сериал увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "чертеж для танцора увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник который ненавидел танцор был хорошим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "журнал для архитектора восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для фигуристов восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "охранника ненавидел фермеры", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "фермер который знал чертежи пел", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "фильмы для фигуриста увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "пилот который ненавидел ассистентов были высокими", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "механик говорил что руководитель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "журналы которые знали фигуристы восхищали", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "журнал для архитектора были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "танцоров недолюбливал пилот", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "фермеры которых знали охранники был высоким", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "учебник был известным", "idx": 1, "label": "intr_inan"}
+{"sentence": "журналы которые ненавидел архитектор был хорошим", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "учебники были хорошими", "idx": 1, "label": "intr_inan"}
+{"sentence": "писатели возле ассистента рассуждали", "idx": 1, "label": "pp_anim"}
+{"sentence": "руководители пели", "idx": 1, "label": "intr_anim"}
+{"sentence": "писатели возле архитекторов рассуждали", "idx": 1, "label": "pp_anim"}
+{"sentence": "покупатели которые ненавидели учебник был пожилым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "банкиры говорили что писатели был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "писатель который недолюбливал учебник пел", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "фермер который недолюбливал танцоров были пожилыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "писатели которых знали фигуристы пел", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "фермер пел", "idx": 1, "label": "intr_anim"}
+{"sentence": "руководители возле охранника пели", "idx": 1, "label": "pp_anim"}
+{"sentence": "руководители которые недолюбливали ассистента были пожилыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "пилот возле архитектора рассуждали", "idx": 0, "label": "pp_anim"}
+{"sentence": "покупатели которые ненавидели учебники рассуждали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "журналы для архитекторов увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "покупатель ненавидел фигуриста", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "чертеж который ненавидел охранник восхищали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "банкир говорил что руководители рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "покупатель который знал танцоров были пожилыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "архитектора недолюбливал покупатели", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "механики говорили что журналы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "журнал для архитектора восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для архитектора восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "механики предполагали что фильм увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "фигуриста знал фермер", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "банкир предполагал что покупатель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "писатели которых ненавидели танцоры был высоким", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "банкир говорил что руководители рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что руководители был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "фермер были пожилыми", "idx": 0, "label": "intr_anim"}
+{"sentence": "фигуриста знали пилоты", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "фильм который знали охранники были известными", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "учебники для архитектора увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "покупатели которых ненавидел ассистент рассуждал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "руководители рассуждали", "idx": 1, "label": "intr_anim"}
+{"sentence": "пилот недолюбливал журнал", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "писатель ненавидели архитектора", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "сериал для фигуриста увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм который знал ассистент был известным", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "покупатель который ненавидел чертеж был пожилым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "пилоты которых недолюбливал танцор были высокими", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чертежи недолюбливали фермер", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "фермер которого недолюбливал охранник рассуждали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "учебники для охранника были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "покупатель были высокими", "idx": 0, "label": "intr_anim"}
+{"sentence": "руководитель который знал учебник рассуждали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чертеж ненавидел писатели", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "банкиры предполагали что писатели пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "пилот которого ненавидел танцор рассуждали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "фильмы восхищал", "idx": 0, "label": "intr_inan"}
+{"sentence": "журнал знали пилоты", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "пилот был высоким", "idx": 1, "label": "intr_anim"}
+{"sentence": "покупатели возле охранника был пожилым", "idx": 0, "label": "pp_anim"}
+{"sentence": "писатель который знал архитектора был высоким", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "чертежи которые ненавидел архитектор был известным", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чертеж который знали ассистенты восхищал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "пилот которого недолюбливал танцор были пожилыми", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "сериалы которые знали охранники восхищал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "учебники ненавидел фермеры", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "писатели которых ненавидел танцор был пожилым", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "банкиры предполагали что сериалы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "писатель ненавидели сериалы", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "сериал был хорошим", "idx": 1, "label": "intr_inan"}
+{"sentence": "фермер недолюбливал учебник", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "механики говорили что сериал восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "учебник недолюбливал пилот", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "пилоты которые недолюбливали журналы рассуждали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чертежи для фигуриста были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "банкиры говорили что учебник был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "писатель знал сериал", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "покупатели возле архитектора рассуждал", "idx": 0, "label": "pp_anim"}
+{"sentence": "механик предполагал что покупатели пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "руководители были высокими", "idx": 1, "label": "intr_anim"}
+{"sentence": "учебник для архитектора был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "пилот пели", "idx": 0, "label": "intr_anim"}
+{"sentence": "журналы знали покупатель", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "руководитель были пожилыми", "idx": 0, "label": "intr_anim"}
+{"sentence": "фермер который знал ассистента были пожилыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "сериалы которые ненавидел фигурист увлекали", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "сериал который недолюбливал архитектор был известным", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "механик предполагал что пилоты был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "фильм увлекали", "idx": 0, "label": "intr_inan"}
+{"sentence": "покупатели которые знали ассистента были пожилыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "пилот ненавидел ассистентов", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "фермеры ненавидел танцора", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "фермеры которые недолюбливали сериалы был высоким", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "фильм был известным", "idx": 1, "label": "intr_inan"}
+{"sentence": "фермеры возле охранника рассуждали", "idx": 1, "label": "pp_anim"}
+{"sentence": "фермер возле охранника был высоким", "idx": 1, "label": "pp_anim"}
+{"sentence": "ассистента ненавидел фермеры", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "фермеры возле охранника пели", "idx": 1, "label": "pp_anim"}
+{"sentence": "механик говорил что фильмы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "руководитель ненавидел архитекторов", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "пилоты ненавидели учебник", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чертеж который знал архитектор был хорошим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "журналы ненавидели писатель", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "пилоты которых ненавидели танцоры рассуждали", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "писатель которого ненавидели архитекторы рассуждали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "сериал который недолюбливали танцоры были хорошими", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "учебник ненавидели покупатель", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "сериал увлекали", "idx": 0, "label": "intr_inan"}
+{"sentence": "фермер который знал фильмы были высокими", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "фермеры которых знали архитекторы пели", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "журналы недолюбливал покупатель", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "сериал который недолюбливал архитектор увлекал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "фильм для архитекторов были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "руководители недолюбливали танцоров", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "руководитель который знал ассистентов пели", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "механик говорил что фермеры пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "пилот которого недолюбливали охранники был пожилым", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "сериалы знал фермер", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "чертежи которые знал охранник был хорошим", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "писатель ненавидел охранников", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "журнал знали руководители", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "фермеры знал архитектора", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "журналы для охранников восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники недолюбливали писатели", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "чертеж были хорошими", "idx": 0, "label": "intr_inan"}
+{"sentence": "механики предполагали что учебник восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "покупатели которые знали учебник рассуждали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "банкир предполагал что сериалы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что сериал были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "покупатели недолюбливали охранников", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "фермеры недолюбливал архитектора", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "фильм восхищал", "idx": 1, "label": "intr_inan"}
+{"sentence": "механики предполагали что пилоты был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "руководитель который недолюбливал фильмы рассуждал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "учебник для ассистента восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "пилоты которые ненавидели журналы рассуждали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чертежи был известным", "idx": 0, "label": "intr_inan"}
+{"sentence": "фильмы которые недолюбливал архитектор восхищал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "руководители которые ненавидели сериал пел", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "фильм восхищали", "idx": 0, "label": "intr_inan"}
+{"sentence": "фигуриста недолюбливали руководитель", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "журнал ненавидел руководители", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "руководитель который знал танцора пели", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "банкир говорил что руководители были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "чертежи знал фермеры", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "писатели возле фигуристов был высоким", "idx": 0, "label": "pp_anim"}
+{"sentence": "покупатель которого недолюбливали охранники рассуждали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "пилоты был высоким", "idx": 0, "label": "intr_anim"}
+{"sentence": "чертеж для танцора были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "банкиры говорили что учебники были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "фермеры недолюбливал фильмы", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "учебники восхищали", "idx": 1, "label": "intr_inan"}
+{"sentence": "покупатель недолюбливал фильм", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "механики предполагали что чертеж были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что писатели были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "сериал который ненавидели танцоры восхищал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "пилот ненавидели учебник", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "журналы которые знал фигурист были известными", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "банкир предполагал что учебник были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "фермеры которые ненавидели фигуриста были пожилыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "механики предполагали что чертежи увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "покупатель знали фильм", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "пилот ненавидели фигуристов", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "учебники ненавидел покупатели", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "руководители ненавидел журнал", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "журнал который недолюбливал архитектор увлекали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "писатель возле охранников рассуждал", "idx": 1, "label": "pp_anim"}
+{"sentence": "руководители которых недолюбливал фигурист пел", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "фигуриста недолюбливал фермеры", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "фермеры которые ненавидели охранника пели", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "фермер которого знали танцоры были пожилыми", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "механики говорили что писатель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "руководители которых ненавидели ассистенты пел", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "сериалы для ассистентов восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "руководитель который ненавидел учебник пели", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "пилоты которые знали учебники был пожилым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "фильм ненавидели писатель", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "писатель был пожилым", "idx": 1, "label": "intr_anim"}
+{"sentence": "банкиры говорили что чертеж был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "руководитель ненавидел ассистентов", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "покупатели недолюбливал ассистентов", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "охранников ненавидели писатель", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "писатели возле танцоров были пожилыми", "idx": 1, "label": "pp_anim"}
+{"sentence": "пилоты которые недолюбливали фильм был пожилым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "сериал были хорошими", "idx": 0, "label": "intr_inan"}
+{"sentence": "писатели которые знали архитекторов были высокими", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "банкиры предполагали что фермер рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "чертеж для ассистента были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "фигуристов недолюбливали покупатели", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "банкиры говорили что руководитель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что руководители рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "пилот который ненавидел танцора был высоким", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "банкиры говорили что фильм восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "пилоты которые знали учебник пел", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "руководитель возле архитекторов были пожилыми", "idx": 0, "label": "pp_anim"}
+{"sentence": "пилоты ненавидел журнал", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "фигуриста знали руководитель", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "банкир предполагал что фильмы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "покупатель пел", "idx": 1, "label": "intr_anim"}
+{"sentence": "банкиры предполагали что журналы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "писатель которого знали охранники рассуждал", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "покупатель который ненавидел танцора рассуждали", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "ассистента знали руководители", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "фермеры которые ненавидели охранника рассуждали", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "механик говорил что руководители был высоким", "idx": 0, "label": "chto_anim"}
